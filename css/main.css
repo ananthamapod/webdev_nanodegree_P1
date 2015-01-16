@@ -1,0 +1,25 @@
+/* Enter your custom CSS here */
+* {
+  color: #666666;
+  font: 16px/2em Verdana, sans-serif;
+  font-stretch: extra-expanded;
+}
+
+h1 {
+  font-size: 3.0em;
+  font-stretch: normal;
+  margin: 45px auto 30px;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0px auto 30px;
+  color: #f07c17;
+}
+
+.features {
+  padding: 30px;
+  margin: 30px 0px;
+  border: 1px solid #cccccc;
+}
